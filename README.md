@@ -1,6 +1,6 @@
 # SimpleRA
 ---------------------------------------------
-Implemented a Simple Relational database on the integer dataset in which we have implemented the basic DDL commands (**Create, Alter, Delete**), DML commands **(Insert, Select, Update, Delete)**, some commands like **Load, Show table, Export, Index, Sort, Group by with the aggregate functions like AVG, SUM, MIN, MAX, COUNT, etc., bulk insert, Matrix transponse, etc**. Also we have implemented **External Merge Sort** for Sorting and **Linear Hashing & B+tree** for Indexing.
+Implemented a Simple Relational database based on the Relation Algebra (RA) on the integer dataset in which we have implemented the basic DDL commands (**Create, Alter, Delete**), DML commands **(Insert, Select, Update, Delete)**, some commands like **Load, Show table, Export, Index, Sort, Group by with the aggregate functions like AVG, SUM, MIN, MAX, COUNT, etc., bulk insert, Matrix transponse, etc**. Also we have implemented **External Merge Sort** for Sorting and **Linear Hashing & B+tree** for Indexing.
 
 ## Compilation Instructions
 
